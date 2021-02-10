@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<div class="container p-3 my-3 bg-primary text-white">
+<Title style="font-family:Times New Roman;">CURRICULUM VITAE</Title>
+<img src="img.png" alt="No tengo imagen reciente que me miro formal.">
+</div>
+
+<div class="container-md mt-3 border">
+  <h2 style="font-family:Times New Roman;">DATOS PERSONALES</h2>
+  <p style="font-family:Calibri;">
+    <b>Nombre Apellido:</b> Richelle Ann Geronimo Apan 
+    <br><b>DNI:</b> 01163337
+    <br><b>Lugar y Fecha de Nacimiento:</b> Filipinas - 05 de Febrero de 1999
+    <br><b>Direccion:</b> Isla del Pacifico 2199 Residencial Coronado Mexicali, Baja California, Mexico 21254
+    <br><b>Telefono:</b> 686 238 0753 
+    <br><b>Correo Electronico:</b> richelle.geronimo@uabc.edu.mx
+  </p>
+</div>
+
+<div class="container-md mt-3 border">
+  <h2 style="font-family:Times New Roman;">FORMACION ACADEMICA</h2>
+  <p style="font-family:Calibri;">
+    <ul style="list-style-type:none;">
+      <li>(2013-2016) <b>Instituto Maral</b></li>
+      <li>(2016-2018) <b>Preparatoria Xochicalco Mexicali</b></li>
+      <li>(2018-2023) <b>Lic. Sistemas Computacionales - Universidad Autonoma de Baja California</b></li>
+    </ul>
+  </p>
+</div>
+
+<div class="container-md mt-3 border">
+  <h2 style="font-family:Times New Roman;">IDIOMAS</h2>
+  <p style="font-family:Calibri;">
+    <ul style="list-style-type:">
+    <li>Tagalo (Natal)</li>
+    <li>Ingles (Intermedio)</li>
+    <li>Español (Intermedio)</li>
+    <li>Coreano (Bajo)</li>
+    </ul>
+  </p>
+</div>
+
+<div class="container-md mt-3 border">
+  <h2 style="font-family:Times New Roman;">INFORMATICA</h2>
+  <p style="font-family:Calibri;">
+  <ul style="list-style-type:">
+    <li>EXCEL</li>
+    <li>PowerPoint</li>
+    <li>WORD</li>
+    <li>Java</li>
+    <li>Lenguaje C</li>
+    <li>Lenguaje C#</li>
+    <li>Visual Studio</li>
+    <li>Cisco Packet Tracer</li>
+    <li>AppServ</li>
+    <li>SQL Server Management Studio</li>
+   </ul>
+  </p>
+</div>
+
+
+</body>
+</html>
