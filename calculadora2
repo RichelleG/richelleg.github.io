@@ -1,0 +1,37 @@
+<?php
+  $operando1 = $_GET['operando1'];
+  $operando2 = $_GET['operando2'];
+  $operador = $_GET['operador'];
+
+  $operador = $_GET['operador'];
+  switch($operador){
+    case "+":
+      if($operador == "+"){
+        $solucion = $operando1 + $operando2;
+      }
+      echo "La solucion es: ".$solucion;
+    break;
+    case "-":
+      if($operador == "-"){
+        $solucion = $operando1 - $operando2;
+      }
+      echo "La solucion es: ".$solucion;
+    break;
+    case "*":
+      if($operador == "*"){
+        $solucion = $operando1 * $operando2;
+      }
+      echo "La solucion es: ".$solucion;
+    break;
+    case "/":
+      if($operador == "/"){
+        $solucion = $operando1 / $operando2;
+	if ($operando2 == 0){
+        	$solucion = "INDEFINIDO";
+    	}
+      }
+      echo "La solucion es: ".$solucion;
+    break;
+  }
+
+?>
